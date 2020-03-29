@@ -1,0 +1,6 @@
+lib
+include
+bin
+pyvenv.cfg
+src/pip-delete-this-directory.txt
+pip-selfcheck.json
