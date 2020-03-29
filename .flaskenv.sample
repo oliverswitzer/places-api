@@ -1,0 +1,2 @@
+FLASK_APP=app
+GOOGLE_MAPS_API_TOKEN=<Token for the Google Maps API. Found under https://console.cloud.google.com/apis/credentials?project=green-hall-247804>
