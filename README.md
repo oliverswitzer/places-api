@@ -8,6 +8,11 @@ This portion of the app serves data from the [populartimes library](https://gith
 
 `pip install -r requirements.txt`
 
-1. define a `.flaskenv` file based on .flaskenv.sample
+1. activate virtual environment
 
+`source venv/bin/activate`
 
+1. define a `.env` file based on `.env.sample`
+1. run the app
+
+`PYTHONPATH=venv/src/populartimes flask run`
